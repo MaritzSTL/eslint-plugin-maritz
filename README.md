@@ -24,6 +24,7 @@ Add `maritz` to the plugins section of your `.eslintrc` configuration file. You 
 
 ```json
 {
+    "extends": ["plugin:maritz/polymer"],
     "plugins": [
         "maritz"
     ]
