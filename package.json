@@ -1,0 +1,21 @@
+{
+  "name": "eslint-plugin-maritz",
+  "version": "0.1.0",
+  "description": "Applies Maritz specific rules and plugins",
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin"
+  ],
+  "author": "Maritz Motivation Solutions",
+  "main": "lib/index.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "eslint": "^4.3.0"
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "license": "ISC"
+}
